@@ -190,24 +190,5 @@ inspecionar e adaptar nosso processo.
         </a>
     </td>
 </tr>
-        <tr>
-            <td>
-                <a href="https://github.com/talitamarques30">
-                    <img src="https://avatars.githubusercontent.com/u/50883452?v=4" alt="fotoperfil" width="45">
-                </a>
-            </td>
-            <td>Scrum Team</td>
-            <td>Talita Marques</td>
-            <td>
-                <a href="http://linkedin.com/in/talitamarques30">
-                    <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=000000' />
-                </a>
-            </td>
-            <td>
-                <a href="https://github.com/talitamarques30">
-                    <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=000000' />
-                </a>
-            </td>
-        </tr>
     </tbody>
 </table>
