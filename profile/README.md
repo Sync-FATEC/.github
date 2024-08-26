@@ -86,7 +86,7 @@ inspecionar e adaptar nosso processo.
             <td>Scrum Team</td>
             <td>Erika Dias</td>
             <td>
-                <a href="https://www.linkedin.com/in/erika-dias/">
+                <a href="https://www.linkedin.com/in/erika-dias-608359266/">
                     <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=000000' />
                 </a>
             </td>
