@@ -41,25 +41,6 @@ inspecionar e adaptar nosso processo.
     <tbody>
         <tr>
             <td>
-                <a href="https://github.com/joaogabgr">
-                    <img src="https://avatars.githubusercontent.com/u/104585766?v=4" alt="fotoperfil" width="45">
-                </a>
-            </td>
-            <td>Scrum Master</td>
-            <td>João Gabriel Solis</td>
-            <td>
-                <a href="https://www.linkedin.com/in/joaoggbs/">
-                    <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=000000' />
-                </a>
-            </td>
-            <td>
-                <a href="https://github.com/joaogabgr">
-                    <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=000000' />
-                </a>
-            </td>
-        </tr>
-        <tr>
-            <td>
                 <a href="https://github.com/Ana-Laura-Moratelli">
                     <img src="https://avatars.githubusercontent.com/u/127795446?v=4" alt="fotoperfil" width="45">
                 </a>
@@ -83,7 +64,7 @@ inspecionar e adaptar nosso processo.
                     <img src="https://avatars.githubusercontent.com/u/142222453?v=4" alt="fotoperfil" width="45">
                 </a>
             </td>
-            <td>Scrum Team</td>
+            <td>Scrum Master</td>
             <td>Claudio Jayme Diniz</td>
             <td>
                 <a href="https://www.linkedin.com/in/claudio-jayme/">
@@ -92,6 +73,44 @@ inspecionar e adaptar nosso processo.
             </td>
             <td>
                 <a href="https://github.com/ClaudioJaymeDiniz">
+                    <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=000000' />
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/ErikaDias2">
+                    <img src="https://avatars.githubusercontent.com/u/178320305?v=4" alt="fotoperfil" width="45">
+                </a>
+            </td>
+            <td>Scrum Team</td>
+            <td>Erika Dias</td>
+            <td>
+                <a href="https://www.linkedin.com/in/erika-dias/">
+                    <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=000000' />
+                </a>
+            </td>
+            <td>
+                <a href="https://github.com/collafilipe">
+                    <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=000000' />
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/collafilipe">
+                    <img src="https://avatars.githubusercontent.com/u/173160383?v=4" alt="fotoperfil" width="45">
+                </a>
+            </td>
+            <td>Scrum Team</td>
+            <td>Filipe Colla</td>
+            <td>
+                <a href="https://www.linkedin.com/in/filipe-colla/">
+                    <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=000000' />
+                </a>
+            </td>
+            <td>
+                <a href="https://github.com/collafilipe">
                     <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=000000' />
                 </a>
             </td>
@@ -149,6 +168,25 @@ inspecionar e adaptar nosso processo.
             </td>
             <td>
                 <a href="https://github.com/ZduardoPereira">
+                    <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=000000' />
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/joaogabgr">
+                    <img src="https://avatars.githubusercontent.com/u/104585766?v=4" alt="fotoperfil" width="45">
+                </a>
+            </td>
+            <td>Scrum Team</td>
+            <td>João Gabriel Solis</td>
+            <td>
+                <a href="https://www.linkedin.com/in/joaoggbs/">
+                    <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=000000' />
+                </a>
+            </td>
+            <td>
+                <a href="https://github.com/joaogabgr">
                     <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=000000' />
                 </a>
             </td>
