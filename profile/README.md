@@ -110,14 +110,14 @@ inspecionar e adaptar nosso processo.
                 </a>
             </td>
             <td>
-                <a href="https://github.com/collafilipe">
+                <a href="https://github.com/ErikaDias2">
                     <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=000000' />
                 </a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/collafilipe">
+                <a href="https://github.com/cErikaDias2">
                     <img src="https://avatars.githubusercontent.com/u/173160383?v=4" alt="fotoperfil" width="45">
                 </a>
             </td>
