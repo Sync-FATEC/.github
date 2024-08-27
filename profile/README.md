@@ -65,7 +65,7 @@ inspecionar e adaptar nosso processo.
                 </a>
             </td>
             <td>Scrum Master</td>
-            <td>Claudio Jayme Diniz</td>
+            <td>Claudio Jayme</td>
             <td>
                 <a href="https://www.linkedin.com/in/claudio-jayme/">
                     <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=000000' />
