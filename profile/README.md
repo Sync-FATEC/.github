@@ -79,19 +79,19 @@ inspecionar e adaptar nosso processo.
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/collafilipe">
-                    <img src="https://avatars.githubusercontent.com/u/173160383?v=4" alt="fotoperfil" width="45">
+                <a href="https://github.com/DiogoPalharini">
+                    <img src="https://avatars.githubusercontent.com/u/80906784?v=4" alt="fotoperfil" width="45">
                 </a>
             </td>
             <td>Scrum Team</td>
             <td>Diogo Palharini</td>
             <td>
-                <a href="https://www.linkedin.com/in/filipe-colla/">
+                <a href="https://www.linkedin.com/in/diogo-palharini-10b803275/">
                     <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=000000' />
                 </a>
             </td>
             <td>
-                <a href="https://github.com/collafilipe">
+                <a href="https://github.com/DiogoPalharini">
                     <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=000000' />
                 </a>
             </td>
@@ -193,19 +193,19 @@ inspecionar e adaptar nosso processo.
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/ZduardoPereira">
-                    <img src="https://avatars.githubusercontent.com/u/127692036?v=4" alt="fotoperfil" width="45">
+                <a href="https://github.com/ojuansoares">
+                    <img src="https://avatars.githubusercontent.com/u/141880400?v=4" alt="fotoperfil" width="45">
                 </a>
             </td>
             <td>Scrum Team</td>
-            <td>Juan</td>
+            <td>Juan Soares</td>
             <td>
-                <a href="https://www.linkedin.com/in/jos%C3%A9-eduardo-fernandes-pereira-b26517284/">
+                <a href="https://www.linkedin.com/in/ojuansoares/">
                     <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=000000' />
                 </a>
             </td>
             <td>
-                <a href="https://github.com/ZduardoPereira">
+                <a href="https://github.com/ojuansoares">
                     <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=000000' />
                 </a>
             </td>
